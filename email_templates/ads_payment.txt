@@ -1,0 +1,42 @@
+<table>
+  <tbody>
+    <tr style="width: 100%">
+      <td>Dear ##Respondent##:</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>Your request has been created, Please proceed to pay the amount  ##Email##</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>To pay the amount, please click the link below</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td><a href="##Link##">click here</a></td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>
+        If you did not requested for ads, please disregard this email.
+      </td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>Regards,</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>CIY team</td>
+    </tr>
+  </tbody> 
+</table>

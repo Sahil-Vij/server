@@ -1,0 +1,51 @@
+<table>
+  <tbody>
+    <tr style="width: 100%">
+      <td>Dear ##Respondent##:</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>Your order has been accepted by ##vendorName##</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>Your order details are </td>
+    </tr>
+    <tr>
+     <td>Email id: ##Email##</td>
+    </tr>
+    <tr>
+     <td>Product name:  ##productName##</td>
+    </tr>
+    <tr>
+     <td>Product code:  ##productCode##</td>
+    </tr>
+    <tr>
+    <td>Transaction id:  ##transactionId##</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>
+        If you did not requested for orders, please disregard this email.
+      </td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>Regards,</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>CIY team</td>
+    </tr>
+  </tbody> 
+</table>

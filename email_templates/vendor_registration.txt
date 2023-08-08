@@ -1,0 +1,51 @@
+<table>
+  <tbody>
+    <tr style="width: 100%">
+      <td>Dear ##Name##:</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>Your account is created with CIY, please use below credentails to login</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>Username : <span style="font-style: bold"> ##Email## </span></td>
+    </tr>
+    <tr style="width: 100%">
+      <td>Password : <span style="font-style: bold"> ##Password## </span></td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>To login in CIY account, please click the link below</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td><a href="##Link##">Login</a></td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>
+        If you did not created account, please disregard this email.
+      </td>
+    </tr>
+    <tr style="width: 100%">
+      <td>&nbsp;</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>Regards,</td>
+    </tr>
+    <tr style="width: 100%">
+      <td>CIY team</td>
+    </tr>
+  </tbody> 
+</table>
